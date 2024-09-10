@@ -16,7 +16,7 @@
  
 <br>
 
-## 💡이 책의 집필 환경
+## 💡동작 환경
 Anaconda  
 Python 3.8  
 Jupyter Notebook  
