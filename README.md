@@ -16,6 +16,12 @@
  
 <br>
 
+## 💡이 책의 집필 환경
+Anaconda  
+Python 3.8  
+Jupyter Notebook  
+<br>
+
 ## 💡문의 및 정오표
 - [문의](mailto:Support@youngjin.com)
 - [정오표](https://www.youngjin.com/Artyboard/mboard.asp?strBoardID=errata)
