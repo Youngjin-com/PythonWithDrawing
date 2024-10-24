@@ -1,4 +1,4 @@
-# 그림으로 배우는 SQL 입문
+# 그림으로 배우는 파이썬
 
 <img src="https://www.youngjin.com/images/book_cover/9788931465853.jpg" height="350px" style="border: 2px solid grey;">
 
